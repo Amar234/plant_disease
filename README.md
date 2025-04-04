@@ -1,1 +1,1 @@
-# plant_disease
+# Analysis Of Plant Disease using Machine Learning 
